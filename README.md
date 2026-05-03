@@ -1,7 +1,7 @@
 # Massar — مسار
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ruxiit/Massar/main/massar-frontend/public/logo.png" alt="Massar Logo" width="100" />
+  <img src="https://raw.githubusercontent.com/ruxiit/Massar/main/massar-frontend/public/logo.png" alt="Massar Logo" width="220" />
 
 **A Comprehensive Platform for University Thesis Management**  
  **المنصة المتكاملة لإدارة مذكرات التخرج الجامعية**
